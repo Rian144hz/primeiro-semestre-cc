@@ -6,7 +6,7 @@ Durante o primeiro semestre do curso de Ciência da Computação, cursei as segu
 - 🧠 **Circuitos Digitais**
 - 💻 **Algoritmos e Programação**
 - 📊 **Matemática Discreta**
-- 🇺🇸 Inglẽs aplicado
-- 🗣️ leitura e produção textual
+- 🇺🇸 **Inglẽs aplicado**
+- 🗣️ **leitura e produção textual**
 
 

@@ -22,7 +22,7 @@ Durante o primeiro semestre do curso de Ciência da Computação, cursei as segu
  - 💻 **Algoritmos e Programação**  
   Exercícios em C envolvendo lógica, estruturas condicionais, laços, vetores e matrizes.
 
-- 📐 Matemática Discreta
+- 📐 **Matemática Discreta**
 
 - Provas e Proposições
 - Teoria de Conjuntos
